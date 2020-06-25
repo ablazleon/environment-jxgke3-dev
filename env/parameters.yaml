@@ -1,0 +1,15 @@
+adminUser:
+  password: local:jxgke3/adminUser:password
+  username: admin
+docker:
+  email: ablazleon@gmail.com
+  password: local:jxgke3/docker:password
+  url: https://hub.docker.com/
+  username: ablazleon
+enableDocker: true
+pipelineUser:
+  email: ablazleon@gmail.com
+  token: local:jxgke3/pipelineUser:token
+  username: ablazleon
+prow:
+  hmacToken: local:jxgke3/prow:hmacToken
