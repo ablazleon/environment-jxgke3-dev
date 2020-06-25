@@ -14,7 +14,7 @@ cluster:
   namespace: jx
   project: envjenkinsk8udacitycapstone
   provider: gke
-  registry: https://hub.docker.com/
+  registry: https://docker.io
   zone: europe-west4-a
 environments:
 - ingress:
