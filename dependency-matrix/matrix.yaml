@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: ablazleon
+  repo: mynode-jx
+  url: https://github.com/ablazleon/mynode-jx.git
+  version: ""
+  versionURL: ""

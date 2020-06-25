@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ablazleon
+    provider: github
+    repository: mynode-jx
+  name: ablazleon-mynode-jx
+spec:
+  description: Imported application for ablazleon/mynode-jx
+  httpCloneURL: https://github.com/ablazleon/mynode-jx.git
+  org: ablazleon
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: mynode-jx
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ablazleon/mynode-jx.git
